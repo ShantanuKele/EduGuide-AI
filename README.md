@@ -40,7 +40,7 @@ Screenshots od the chatbot workflow and responses are available in the screensho
 
 # Bot Link 
 
-[Open EduGuide AI Chatbot]([https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/26/09/20260526094402-SCRTMFI5.json](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/26/09/20260526094402-SCRTMFI5.json&_gl=1*105oodu*_gcl_aw*R0NMLjE3Nzk5NDQ4MjAuQ2p3S0NBandyTnJRQmhCakVpd0FvUjRWTzBhaTZsazBha1BkZ1BZTEc2WGhaMU00VENQNWZLcHNXdlMtcXk4ZnZpcnRWVlhPekF0SDFob0N1b2NRQXZEX0J3RQ..*_gcl_au*MTM1OTkxOTQ3NC4xNzc5NDc0Mjcx*_ga*MTYzMzYyODI5MS4xNzc5NDc0Mjcy*_ga_HKHSWES9V9*czE3Nzk5NjAyMDgkbzEyJGcxJHQxNzc5OTYwNjUxJGo0MSRsMCRoNDUwMzU5ODM2))
+[Open EduGuide AI Chatbot](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/26/09/20260526094402-SCRTMFI5.json](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/26/09/20260526094402-SCRTMFI5.json&_gl=1*105oodu*_gcl_aw*R0NMLjE3Nzk5NDQ4MjAuQ2p3S0NBandyTnJRQmhCakVpd0FvUjRWTzBhaTZsazBha1BkZ1BZTEc2WGhaMU00VENQNWZLcHNXdlMtcXk4ZnZpcnRWVlhPekF0SDFob0N1b2NRQXZEX0J3RQ..*_gcl_au*MTM1OTkxOTQ3NC4xNzc5NDc0Mjcx*_ga*MTYzMzYyODI5MS4xNzc5NDc0Mjcy*_ga_HKHSWES9V9*czE3Nzk5NjAyMDgkbzEyJGcxJHQxNzc5OTYwNjUxJGo0MSRsMCRoNDUwMzU5ODM2))
 
 # Repository Contents
 
