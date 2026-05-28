@@ -40,7 +40,7 @@ Screenshots od the chatbot workflow and responses are available in the screensho
 
 # Bot Link 
 
-https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/26/09/20260526094402-SCRTMFI5.json
+[Open EduGuide AI Chatbot](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/26/09/20260526094402-SCRTMFI5.json)
 
 # Repository Contents
 
